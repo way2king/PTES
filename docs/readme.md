@@ -3,19 +3,23 @@
 </font></font></p><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这个版本可以被认为是v1.0，因为该标准的核心要素已经固化，并且已经通过行业进行了一年多的“道路测试”。</font><font style="vertical-align: inherit;">v2.0很快就会投入使用，它将提供更多关于“水平”的细粒度工作 - 就像可以在其中执行渗透测试的每个元素的强度级别一样。</font><font style="vertical-align: inherit;">由于没有pentest像另一个，测试将从更平凡的Web应用程序或网络测试，到全面的红色团队参与，所述级别将使组织能够定义他们期望他们的对手展示多少复杂性，并启用测试人员加强组织最需要的领域的强度。</font><font style="vertical-align: inherit;">关于“水平”的一些初步工作可以在情报收集部分看到。
 </font></font></p><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是标准定义的主要部分，作为渗透测试执行的基础：
 </font></font></p>
-<ul><li><a href="/index.php/Pre-engagement" title="预啮合"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参与前的互动</font></font></a></li>
-<li><a href="/index.php/Intelligence_Gathering" title="情报收集"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">情报收集</font></font></a></li>
-<li><a href="/index.php/Threat_Modeling" title="威胁建模"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">威胁建模</font></font></a></li>
-<li><a href="/index.php/Vulnerability_Analysis" title="漏洞分析"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">漏洞分析</font></font></a></li>
-<li><a href="/index.php/Exploitation" title="开发"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发</font></font></a></li>
-<li><a href="/index.php/Post_Exploitation" title="后利用"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">后利用</font></font></a></li>
-<li><a href="/index.php/Reporting" title="报告"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">报告</font></font></a></li></ul>
+
+
+- [前期交互阶段](./pages/1_pre-engagement.md)
+- [情报收集](./pages/2_Intellicence_Gathering.md)
+- [威胁建模](./pages/3_Threat_Modeling.md)
+- [漏洞分析](./pages/4_Vulnerability_Analysis.md)
+- [渗透攻击](./pages/5_Exploitation.md)
+- [后渗透攻击](./pages/6_Post_Exploitation.md)
+- [报告](./pages/7_Reportiong.md)
+
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">由于标准没有提供任何技术指导，如何执行实际的测试，我们还创建了一个技术指南，以配合标准本身。</font><font style="vertical-align: inherit;">可以通过以下链接访问技术指导：
 </font></font></p>
-<ul><li><a href="/index.php/PTES_Technical_Guidelines" title="PTES技术指南"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 技术指南</font></font></a></li></ul>
+
+- [PTES技术指南](./pages/PTES_Technical_Guidelines.md)
 <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关此标准的更多信息，请访问：
 </font></font></p>
-<ul><li><a href="/index.php/FAQ" title="常问问题"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渗透测试执行标准：常见问题解答</font></font></a></li></ul>
+<ul><li><a href="http://www.pentest-standard.org/index.php/FAQ" title="常问问题"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渗透测试执行标准：常见问题解答</font></font></a></li></ul>
 
 <!-- 
 NewPP limit report
