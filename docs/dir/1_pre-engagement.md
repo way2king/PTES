@@ -1,10 +1,4 @@
-<div id="mw_contentholder" class="mw-body">
-						<div class="mw-topboxes">
-							<div id="mw-js-message" style="display:none;"></div>
-							<div class="mw-topbox" id="siteSub"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来自渗透测试执行标准</font></font></div>
-																				</div>
-
-						<div id="contentSub"></div>
+<div id="contentSub"></div>
 
 												<div id="jump-to-nav"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">跳转到：							 </font></font><a href="#mw_portlets"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">， 							 </font></font><a href="#searchInput"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">搜索</font></font></a>
 						</div>
